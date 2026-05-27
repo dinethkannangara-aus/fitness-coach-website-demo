@@ -1,2 +1,25 @@
-# fitness-coach-website-demo
-A professional fitness coach website demo with programs, booking section, and responsive landing page design.
+# Fitness Coach Website Demo
+
+A premium dark fitness coach website built with React and Vite.
+
+## Pages
+
+- Home
+- Programs
+- Contact / Book Call
+
+## GitHub Pages
+
+The Vite base path is configured in `vite.config.js`:
+
+```js
+base: "/fitness-coach-website-demo/"
+```
+
+## Commands
+
+```bash
+npm install
+npm run build
+npm run dev
+```
